@@ -2,9 +2,4 @@
 echo "hello $USER"
 
 
-[Done] exited with code=0 in 0.025 seconds
-
-[Running] /bin/bash "/home/pius/Desktop/ALX_PDBE/Devops/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you"
 hello pius
-
-[Done] exited with code=0 in 0.024 seconds
