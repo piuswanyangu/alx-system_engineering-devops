@@ -1,3 +1,0 @@
-#!/bin/bash
-# append the directory '/action' to the end of current path
-export PATH="$PATH:/action"
