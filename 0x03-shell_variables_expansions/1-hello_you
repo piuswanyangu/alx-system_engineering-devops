@@ -1,3 +1,2 @@
-pius@Pius:~$ echo "Hello $USER"
-Hello pius
-pius@Pius:~$ 
+#!/bin/bash
+echo "hello $USER"
