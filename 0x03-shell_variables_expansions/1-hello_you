@@ -1,0 +1,3 @@
+pius@Pius:~$ echo "Hello $USER"
+Hello pius
+pius@Pius:~$ 
